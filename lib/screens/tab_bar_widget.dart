@@ -11,7 +11,6 @@ class CategoryTab extends StatelessWidget {
         indicatorColor: Colors.white,
         labelColor: Colors.white,
         indicatorSize: TabBarIndicatorSize.tab,
-        // isScrollable: true,
         tabs: [
           Tab(
             child: Text(
