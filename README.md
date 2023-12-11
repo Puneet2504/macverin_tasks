@@ -1,6 +1,6 @@
 # macverin_task
 
-A new Flutter project.
+A new Flutter project. Created the release for easy download
 
 ## Screenshots of My Work
 ![WhatsApp Image 2023-12-11 at 15 17 05 (1)](https://github.com/Puneet2504/macverin_tasks/assets/81670033/b13be012-0af1-426b-adc5-48008a90a0db)
