@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "490979559747",
+    "project_id": "macverin-f57a4",
+    "storage_bucket": "macverin-f57a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490979559747:android:28b180e14f27aa90a387f6",
+        "android_client_info": {
+          "package_name": "com.example.macverin_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490979559747-eb18l2coif3df93m9tc7iit176g7q92n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.macverin_task",
+            "certificate_hash": "ef305208803bc67587e52f437959a80f2d4d5ef9"
+          }
+        },
+        {
+          "client_id": "490979559747-nn97m81qf2rgrdpicvorqhtm6kstufjm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9eIFJiojGmDThzX1zh0pq0F1lqy1SYA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490979559747-nn97m81qf2rgrdpicvorqhtm6kstufjm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
